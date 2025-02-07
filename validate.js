@@ -1,6 +1,4 @@
 /* 
-Student Name: Ariel Fajimiyo
-Student Number: C00300811
 Date: 3/02/25
 Purpose: This script handles form validation.
 */
